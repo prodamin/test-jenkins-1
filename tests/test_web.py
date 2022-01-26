@@ -6,3 +6,7 @@ def test_true():
 
 def test_false():
     assert True
+
+
+def test_failed():
+    assert False
