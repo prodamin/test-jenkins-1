@@ -14,4 +14,4 @@ def test_false():
 
 @allure.feature('feature_3')
 def test_failed():
-    assert True
+    assert False
